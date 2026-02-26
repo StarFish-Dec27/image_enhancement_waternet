@@ -1,0 +1,29 @@
+2026-02-21 13:35:35,538 - INFO - Logging system initialized! Log file: ./training_logs\train_log_20260221_133535.log
+2026-02-21 13:35:36,732 - INFO - CSV log file initialized at: ./experiments\waternet_v1\train_metrics_20260221_133536.csv
+2026-02-21 13:35:36,734 - INFO - Starting training...
+2026-02-21 13:35:43,789 - INFO - Train Epoch: 1 [10/100] Loss: 0.8833 (L1: 0.3751, SSIM: 0.9279, Perceptual: 0.4423)
+2026-02-21 13:35:47,131 - INFO - Train Epoch: 1 [20/100] Loss: 0.7893 (L1: 0.3367, SSIM: 0.8332, Perceptual: 0.3600)
+2026-02-21 13:35:50,500 - INFO - Train Epoch: 1 [30/100] Loss: 0.6544 (L1: 0.2612, SSIM: 0.7173, Perceptual: 0.3457)
+2026-02-21 13:35:54,136 - INFO - Train Epoch: 1 [40/100] Loss: 0.7838 (L1: 0.3433, SSIM: 0.8098, Perceptual: 0.3558)
+2026-02-21 13:35:57,413 - INFO - Train Epoch: 1 [50/100] Loss: 0.8008 (L1: 0.3291, SSIM: 0.8675, Perceptual: 0.3796)
+2026-02-21 13:36:00,841 - INFO - Train Epoch: 1 [60/100] Loss: 0.8293 (L1: 0.3523, SSIM: 0.8782, Perceptual: 0.3784)
+2026-02-21 13:36:04,070 - INFO - Train Epoch: 1 [70/100] Loss: 0.7749 (L1: 0.3325, SSIM: 0.8098, Perceptual: 0.3746)
+2026-02-21 13:36:07,358 - INFO - Train Epoch: 1 [80/100] Loss: 0.8670 (L1: 0.3666, SSIM: 0.9197, Perceptual: 0.4058)
+2026-02-21 13:36:10,603 - INFO - Train Epoch: 1 [90/100] Loss: 0.8040 (L1: 0.3495, SSIM: 0.8466, Perceptual: 0.3118)
+2026-02-21 13:36:13,845 - INFO - Train Epoch: 1 [100/100] Loss: 0.7241 (L1: 0.2906, SSIM: 0.7968, Perceptual: 0.3507)
+2026-02-21 13:36:14,667 - INFO - Train Epoch 1 finished. Average Loss: 0.7625, Time: 37.93s
+2026-02-21 13:36:27,987 - INFO - Validation Epoch 1 finished. Average Loss: 0.5184, Time: 13.32s
+2026-02-21 13:36:28,352 - INFO - New best model saved to ./experiments\waternet_v1\best_model.pth (epoch 1)
+2026-02-21 13:36:34,855 - INFO - Train Epoch: 2 [10/100] Loss: 0.6808 (L1: 0.2756, SSIM: 0.7497, Perceptual: 0.3038)
+2026-02-21 13:36:38,240 - INFO - Train Epoch: 2 [20/100] Loss: 0.6626 (L1: 0.2547, SSIM: 0.7521, Perceptual: 0.3190)
+2026-02-21 13:36:41,472 - INFO - Train Epoch: 2 [30/100] Loss: 0.6989 (L1: 0.3029, SSIM: 0.7304, Perceptual: 0.3083)
+2026-02-21 13:36:44,658 - INFO - Train Epoch: 2 [40/100] Loss: 0.8815 (L1: 0.3817, SSIM: 0.9182, Perceptual: 0.4067)
+2026-02-21 13:36:47,855 - INFO - Train Epoch: 2 [50/100] Loss: 0.5070 (L1: 0.2009, SSIM: 0.5656, Perceptual: 0.2326)
+2026-02-21 13:36:51,063 - INFO - Train Epoch: 2 [60/100] Loss: 0.7125 (L1: 0.2965, SSIM: 0.7702, Perceptual: 0.3089)
+2026-02-21 13:36:54,299 - INFO - Train Epoch: 2 [70/100] Loss: 0.7280 (L1: 0.2872, SSIM: 0.8074, Perceptual: 0.3703)
+2026-02-21 13:36:57,650 - INFO - Train Epoch: 2 [80/100] Loss: 0.7706 (L1: 0.3246, SSIM: 0.8119, Perceptual: 0.4001)
+2026-02-21 13:37:01,184 - INFO - Train Epoch: 2 [90/100] Loss: 0.7012 (L1: 0.2847, SSIM: 0.7626, Perceptual: 0.3514)
+2026-02-21 13:37:04,614 - INFO - Train Epoch: 2 [100/100] Loss: 0.7711 (L1: 0.3316, SSIM: 0.8110, Perceptual: 0.3406)
+2026-02-21 13:37:05,470 - INFO - Train Epoch 2 finished. Average Loss: 0.6849, Time: 37.12s
+2026-02-21 13:37:18,708 - INFO - Validation Epoch 2 finished. Average Loss: 0.5192, Time: 13.24s
+
